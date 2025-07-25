@@ -1,4 +1,4 @@
-# cd C:\Users\GAYRARD\Desktop\Python\GC_TCD
+# cd C:\Users\GAYRARD\Documents\GitHub\Gas_Chromatography
 # manim -pqm wheatstone_bridge_scratch.py WheatstoneBridge
 
 from manim import *
